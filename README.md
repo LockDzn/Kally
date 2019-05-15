@@ -30,7 +30,7 @@ Mas se você quiser mesmo hospedar a Loritta, siga os seguintes passos:
 
 ## 📦 Dependências
 
-A Lori utiliza várias [dependências no código-fonte dela](https://github.com/LorittaBot/Loritta/blob/master/pom.xml), obrigado a todos os mantenedores das dependências! Sem vocês, talvez a Loritta não iria existir (ou teria várias funcionalidades reduzidas ou talvez até inexistentes!)
+O Kally utiliza poucos [dependências no código-fonte dele](https://github.com/LockDzn/Kally/blob/master/package.json), obrigado a todos os mantenedores das dependências!
 
 | Nome  |
 | ------------- |
