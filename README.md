@@ -20,7 +20,7 @@ Lembrando...
 * Eu não irei ficar explicando como arrumar problemas na sua versão self hosted dela, **você está por sua conta e risco**.
 * Você não pode utilizar o nome "Kally" ou a personagem Kally na sua versão self hosted.
 
-Mas se você quiser mesmo hospedar a Loritta, siga os seguintes passos:
+Mas se você quiser mesmo hospedar o Kally, siga os seguintes passos:
 1. Tenha o Node.js instalado na sua máquina.
 2. Tenha o Git Bash instalado na sua máquina.
 3. Faça ```git clone https://github.com/LockDzn/Kally.git``` em alguma pasta no seu computador.
