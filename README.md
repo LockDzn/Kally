@@ -26,6 +26,7 @@ Mas se você quiser mesmo hospedar a Loritta, siga os seguintes passos:
 3. Faça ```git clone https://github.com/LockDzn/Kally.git``` em alguma pasta no seu computador.
 4. Agora, usando o PowerShell (ou o próprio Git Bash), entre na pasta criada e utilize `npm install`
 5. Depois disso, edite o arquivo `config.json` que está na pasta `util`, alterando o token.
+6. Agora, tem que configurar o login da database, no arquivo `pg`.
 6. Após terminar de editar, inicie a BAT e, se tudo der certo, ele irá iniciar e você poderá usar os comandos dele!
 
 ## 📦 Dependências
