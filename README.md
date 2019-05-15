@@ -30,15 +30,14 @@ Mas se você quiser mesmo hospedar a Loritta, siga os seguintes passos:
 
 ## 📦 Dependências
 
-O Kally utiliza poucos [dependências no código-fonte dele](https://github.com/LockDzn/Kally/blob/master/package.json), obrigado a todos os mantenedores das dependências!
+O Kally utiliza poucas [dependências no código-fonte dele](https://github.com/LockDzn/Kally/blob/master/package.json), obrigado a todos os mantenedores das dependências!
 
-| Nome  |
-| ------------- |
-| [Node.js](https://nodejs.org) |
-| [Discord.js](https://www.npmjs.com/package/discord.js) |
-| [Colors](https://www.npmjs.com/package/colors) |
-| [Moment](https://www.npmjs.com/package/moment) |
-| [Postgres](https://www.npmjs.com/package/pg) |
+
+* [Node.js](https://nodejs.org)
+* [Discord.js](https://www.npmjs.com/package/discord.js)
+* [Colors](https://www.npmjs.com/package/colors)
+* [Moment](https://www.npmjs.com/package/moment)
+* [Postgres](https://www.npmjs.com/package/pg)
 
 ## 📄 Licença
 
