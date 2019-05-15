@@ -9,7 +9,7 @@
 
 <p align="center">
 
-Olá, bom... agora o Kally está open source!
+Agora o Kally está open source!
 
 ### 🙌 Como Usar?
 #### 👨‍💻 Como Compilar?
