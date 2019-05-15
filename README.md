@@ -15,7 +15,7 @@ Olá, bom... agora o Kally está open source!
 #### 👨‍💻 Como Compilar?
 
 Lembrando...
-* Deixei o código-fonte de nossos projetos para que outras pessoas possam se inspirar e aprender com o projeto.
+* Deixei o código-fonte do meu projeto para que outras pessoas possam se inspirar e aprender com o projeto.
 * Eu não irei dar suporte caso você queria fazer self hosting apenas para você querer fazer "fama" falando que você criou um bot, mesmo que na verdade você apenas pegou o código-fonte dela e hospedou, lembre-se, a licença do projeto é [AGPL v3](https://github.com/LockDzn/Kally/blob/master/LICENSE), você é **obrigado a deixar todas as suas alterações no projeto públicas**!
 * Eu não irei ficar explicando como arrumar problemas na sua versão self hosted dela, **você está por sua conta e risco**.
 * Você não pode utilizar o nome "Kally" ou a personagem Kally na sua versão self hosted.
