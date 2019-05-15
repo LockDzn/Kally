@@ -4,7 +4,7 @@
 <a href="https://lockdzn.tk/"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
 </p>
 <p align="center">
-<a href="https://twitter.com/intent/user?screen_name=LockDzn_"><img src="https://img.shields.io/twitter/follow/perfectdreamsmc.svg?style=social&label=Seguir%20LockDzn"></a>
+<a href="https://twitter.com/intent/user?screen_name=LockDzn_"><img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20LockDzn&style=social"></a>
 <h1 align="center">Kally 🤖</h1>
 
 <p align="center">
