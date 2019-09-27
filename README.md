@@ -11,6 +11,11 @@
 
 Agora o Kally está open source!
 
+<p align="center">
+<a href="https://discordbots.org/bot/415288373071183872?utm_source=widget">
+  <img src="https://discordbots.org/api/widget/415288373071183872.png?test=123456" alt="Discord Bots" />
+</a></p>
+
 ### 🙌 Como Usar?
 #### 👨‍💻 Como Compilar?
 
@@ -47,13 +52,8 @@ O código-fonte do Kally está licenciado sob a [GNU Affero General Public Licen
 
 Utilizei a [README.md](https://github.com/LorittaBot/Loritta/blob/master/README.md) da Loritta de inspiração
 
-O personagem Kally é © LockDzn (Ryan Souza) — Todos os direitos reservados
-
-<p align="center">
-<a href="https://discordbots.org/bot/415288373071183872?utm_source=widget">
-  <img src="https://discordbots.org/api/widget/415288373071183872.png?test=123456" alt="Discord Bots" />
-</a></p>
 
 <hr>
 <br>
+<p align="center">O personagem Kally é © LockDzn (Ryan Souza) — Todos os direitos reservados.</p>
 <p align="center">"Discord", "DiscordApp" and any associated logos are registered trademarks of Discord Inc.</p>
