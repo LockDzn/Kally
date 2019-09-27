@@ -17,17 +17,16 @@ Agora o Kally está open source!
 
 Lembrando...
 * Deixei o código-fonte do meu projeto para que outras pessoas possam se inspirar e aprender com o projeto.
-* Eu não irei dar suporte caso você queria fazer self hosting apenas para você querer fazer "fama" falando que você criou um bot, mesmo que na verdade você apenas pegou o código-fonte dela e hospedou, lembre-se, a licença do projeto é [AGPL v3](https://github.com/LockDzn/Kally/blob/master/LICENSE), você é **obrigado a deixar todas as suas alterações no projeto públicas**!
-* Eu não irei ficar explicando como arrumar problemas na sua versão self hosted dela, **você está por sua conta e risco**.
-* Você não pode utilizar o nome "Kally" ou a personagem Kally na sua versão self hosted.
+* Eu não irei dar suporte caso você queria fazer self hosting apenas para você querer fazer "fama" falando que você criou um bot, mesmo que na verdade você apenas pegou o código-fonte dele e hospedou, lembre-se, a licença do projeto é [AGPL v3](https://github.com/LockDzn/Kally/blob/master/LICENSE), você é **obrigado a deixar todas as suas alterações no projeto públicas**!
+* Eu não irei ficar explicando como arrumar problemas na sua versão self hosted dele, **você está por sua conta e risco**.
+* Você não pode utilizar o nome "Kally" ou o personagem Kally na sua versão self hosted.
 
 Mas se você quiser mesmo hospedar o Kally, siga os seguintes passos:
-1. Tenha o Node.js instalado na sua máquina.
-2. Tenha o Git Bash instalado na sua máquina.
-3. Faça ```git clone https://github.com/LockDzn/Kally.git``` em alguma pasta no seu computador.
-4. Agora, usando o PowerShell (ou o próprio Git Bash), entre na pasta criada e utilize `npm install`
-5. Depois disso, edite o arquivo `config.json` que está na pasta `util`, alterando o token.
-6. Agora, tem que configurar o login da database, no arquivo `pgsql.js`.
+1. Tenha o Node.js instalado na sua máquina;
+2. Tenha o Git Bash instalado na sua máquina;
+4. Agora, usando o PowerShell (ou o próprio Git Bash), entre na pasta criada e utilize `npm install`;
+5. Depois disso, edite o arquivo `config.json` que está na pasta `util`, alterando o token;
+6. Agora, tem que configurar o login da database, no arquivo `pgsql.js`;
 6. Após terminar de editar, inicie a BAT e, se tudo der certo, ele irá iniciar e você poderá usar os comandos dele!
 
 ## 📦 Dependências
