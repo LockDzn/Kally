@@ -1,7 +1,7 @@
 <p align="center">
 <img height="384" src="https://i.imgur.com/QGbGUR8.png">
 <br>
-<a href="https://lockdzn.tk/"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
+<a href="https://lockdzn.github.io/"><img src="https://img.shields.io/badge/website-lockdzn-informational.svg"></a>
 </p>
 <p align="center">
 <a href="https://twitter.com/intent/user?screen_name=LockDzn_"><img src="https://img.shields.io/twitter/url/https/twitter.com/intent/user.svg?label=Seguir%20LockDzn&style=social"></a>
@@ -11,10 +11,6 @@
 
 Agora o Kally está open source!
 
-<p align="center">
-<a href="https://discordbots.org/bot/415288373071183872?utm_source=widget">
-  <img src="https://discordbots.org/api/widget/415288373071183872.png?test=123456" alt="Discord Bots" />
-</a></p>
 
 ### 🙌 Como Usar?
 #### 👨‍💻 Como Compilar?
@@ -49,8 +45,13 @@ O Kally utiliza poucas [dependências no código-fonte dele](https://github.com/
 
 O código-fonte do Kally está licenciado sob a [GNU Affero General Public License v3.0 (https://github.com/LockDzn/Kally/blob/master/LICENSE)
 
-
 Utilizei a [README.md](https://github.com/LorittaBot/Loritta/blob/master/README.md) da Loritta de inspiração
+
+<p align="center">
+<a href="https://discordbots.org/bot/415288373071183872?utm_source=widget">
+  <img src="https://discordbots.org/api/widget/415288373071183872.png?test=123456" alt="Discord Bots" />
+</a></p>
+
 
 
 <hr>
