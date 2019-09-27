@@ -49,9 +49,10 @@ Utilizei a [README.md](https://github.com/LorittaBot/Loritta/blob/master/README.
 
 O personagem Kally é © LockDzn (Ryan Souza) — Todos os direitos reservados
 
+<p align="center">
 <a href="https://discordbots.org/bot/415288373071183872?utm_source=widget">
   <img src="https://discordbots.org/api/widget/415288373071183872.png?test=123456" alt="Discord Bots" />
-</a>
+</a></p>
 
 <hr>
 <br>
