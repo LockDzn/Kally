@@ -42,11 +42,16 @@ O Kally utiliza poucas [dependências no código-fonte dele](https://github.com/
 
 ## 📄 Licença
 
-O código-fonte do Kally está licenciado sob a [GNU Affero General Public License v3.0](https://github.com/LockDzn/Kally/blob/master/LICENSE)
+O código-fonte do Kally está licenciado sob a [GNU Affero General Public License v3.0 (https://github.com/LockDzn/Kally/blob/master/LICENSE)
+
 
 Utilizei a [README.md](https://github.com/LorittaBot/Loritta/blob/master/README.md) da Loritta de inspiração
 
 O personagem Kally é © LockDzn (Ryan Souza) — Todos os direitos reservados
+
+<a href="https://discordbots.org/bot/415288373071183872?utm_source=widget">
+  <img src="https://discordbots.org/api/widget/415288373071183872.png?test=123456" alt="Discord Bots" />
+</a>
 
 <hr>
 <br>
